@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FairShare_WebApp/static/css/main.d00ce3ea.css",
+    "main.js": "/FairShare_WebApp/static/js/main.c9f1fa36.js",
+    "index.html": "/FairShare_WebApp/index.html",
+    "main.d00ce3ea.css.map": "/FairShare_WebApp/static/css/main.d00ce3ea.css.map",
+    "main.c9f1fa36.js.map": "/FairShare_WebApp/static/js/main.c9f1fa36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d00ce3ea.css",
+    "static/js/main.c9f1fa36.js"
+  ]
+}
